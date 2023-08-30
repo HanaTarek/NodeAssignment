@@ -1,0 +1,14 @@
+{
+  "name": "calcassignment",
+  "version": "1.0.0",
+  "description": "calculate the salary per hour ",
+  "main": "cost-calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.4"
+  }
+}
